@@ -1,0 +1,6 @@
+projectKey=petconnect-backend
+serverUrl=http://localhost:9000
+serverVersion=10.4.1.88267
+dashboardUrl=http://localhost:9000/dashboard?id=petconnect-backend
+ceTaskId=2006a585-ddc5-4fc9-9ce3-cac8ff752b33
+ceTaskUrl=http://localhost:9000/api/ce/task?id=2006a585-ddc5-4fc9-9ce3-cac8ff752b33
